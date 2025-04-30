@@ -1,4 +1,4 @@
-# iob-evaluation-metrics
+# IOB-evaluation-metrics
 
 Implement an IOB-based evaluation system for sequence entities. Compare results using Precision, Recall, and F1 metrics in two variants: 
 
